@@ -213,7 +213,7 @@ sessionInfo()
     ## [8] base     
     ## 
     ## other attached packages:
-    ##  [1] miaSim_1.18.0                   TreeSummarizedExperiment_2.21.0
+    ##  [1] miaSim_1.14.1                   TreeSummarizedExperiment_2.21.0
     ##  [3] Biostrings_2.81.5               XVector_0.53.0                 
     ##  [5] SingleCellExperiment_1.35.1     SummarizedExperiment_1.43.0    
     ##  [7] Biobase_2.73.1                  GenomicRanges_1.65.0           
