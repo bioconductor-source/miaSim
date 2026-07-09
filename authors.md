@@ -24,11 +24,11 @@
 ## Citation
 
 Source:
-[`inst/CITATION`](https://github.com/microbiome/miaSim/blob/devel/inst/CITATION)
+[`inst/CITATION`](https://github.com/microbiome/miaSim/blob/RELEASE_3_22/inst/CITATION)
 
 \(C\) Yu Gao et al. miaSim: an R/Bioconductor package to easily simulate
 microbial community dynamics. Methods in Ecology and Evolution (2023).
-Version 1.19.0 Package URL: microbiome.github.io/miaSim
+Version 1.16.0 Package URL: microbiome.github.io/miaSim
 
     @Article{,
       title = {miaSim: an R/Bioconductor package to easily simulate microbial community dynamics},
@@ -37,5 +37,5 @@ Version 1.19.0 Package URL: microbiome.github.io/miaSim
       doi = {10.1111/2041-210X.14129},
       author = {Yu Gao and Yağmur Şimşek and Emma Gheysen and Tuomas Borman and Yi Li and Leo Lahti and Karoline Faust and Daniel Garza},
       url = {microbiome.github.io/miaSim},
-      note = {Version 1.19.0},
+      note = {Version 1.16.0},
     }
